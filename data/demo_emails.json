@@ -1,0 +1,142 @@
+[
+  {
+    "id": "demo-001",
+    "sender": "sarah.chen@westbrooklaw.com",
+    "subject": "Invoice #INV-2026-0145 for April Legal Services",
+    "body": "Dear Accounts Team,\n\nPlease find attached Invoice #INV-2026-0145 for legal consultancy services rendered during April 2026. Total amount due: £4,850.00. Payment terms: Net 30.\n\nBank details are included in the attached PDF. Kindly confirm receipt and advise on the expected payment date. We would also appreciate a purchase order number for our records if applicable.\n\nBest regards,\nSarah Chen\nWestbrook Legal Partners\nTel: 0207 555 0191",
+    "received_at": "2026-06-10 09:15:00"
+  },
+  {
+    "id": "demo-002",
+    "sender": "accounts@supplierxyz.co.uk",
+    "subject": "Second reminder - Invoice #SU-0892 overdue for 30 days",
+    "body": "Dear Finance Team,\n\nThis is a second and final reminder that Invoice #SU-0892 for £1,240.00, issued on 10 May 2026, remains unpaid. Payment was due on 9 June 2026 and is now 30 days overdue.\n\nWe kindly request that payment is made within the next 5 business days to avoid a formal late payment notice and the addition of statutory interest charges under the Late Payment of Commercial Debts Act.\n\nPlease contact us immediately if there is a dispute regarding this invoice.\n\nKind regards,\nAccounts Receivable\nSupplier XYZ Ltd",
+    "received_at": "2026-06-10 11:30:00"
+  },
+  {
+    "id": "demo-003",
+    "sender": "anna.kowalski@polartech.io",
+    "subject": "Missing documents needed for 2025 tax return - deadline approaching",
+    "body": "Hi,\n\nWe are still waiting for the following documents to complete your 2025 annual tax return. These are now urgently required:\n\n1. Bank statements for accounts ending in 4521 and 8876 (January to December 2025)\n2. Depreciation schedule for office equipment purchased in Q3 2025\n3. Updated partnership agreement (if amended this year)\n4. Supplier invoices over £5,000 (Q4 2025)\n\nOur filing deadline is June 30, 2026. If we do not receive these documents by June 20th, we cannot guarantee timely submission and late filing penalties will apply.\n\nPlease send the documents via the secure portal or email them directly to this address.\n\nRegards,\nAnna Kowalski\nPolar Tech LLC",
+    "received_at": "2026-06-10 08:00:00"
+  },
+  {
+    "id": "demo-004",
+    "sender": "finance@constructco.com",
+    "subject": "URGENT: Corporation tax payment of £18,750 due June 20th - final notice",
+    "body": "URGENT FINAL NOTICE\n\nYour corporation tax payment of £18,750.00 for the tax year ending December 2025 is due on June 20, 2026. This is only 10 days away.\n\nFailure to pay by the deadline will result in HMRC late payment surcharges of 5% of the unpaid amount, plus daily interest at 7.75% per annum from the due date.\n\nThis is the final reminder before we are required to notify HMRC that payment is outstanding.\n\nPlease contact us immediately to arrange payment or discuss a Time to Pay arrangement with HMRC.\n\nFinance Team\nConstruct Co Ltd",
+    "received_at": "2026-06-10 07:45:00"
+  },
+  {
+    "id": "demo-005",
+    "sender": "rachel.nguyen@brightongroup.com",
+    "subject": "Appointment request - annual accounts review and tax planning meeting",
+    "body": "Dear team,\n\nI would like to schedule an appointment to review our annual accounts for FY2025 and discuss our tax planning strategy for the coming financial year. We have a number of questions around director loan accounts and dividend policy that we would like to address.\n\nI am available on the following dates:\n- Monday 15 June, 10:00 am to 12:00 pm\n- Wednesday 17 June, 2:00 pm to 4:00 pm\n- Thursday 18 June, any time\n\nPlease let me know which slot works best and I will confirm my attendance. A video call is also fine if it is more convenient.\n\nKind regards,\nRachel Nguyen\nBrighton Group Ltd",
+    "received_at": "2026-06-09 16:20:00"
+  },
+  {
+    "id": "demo-006",
+    "sender": "james.oconnor@hartfield-retail.com",
+    "subject": "Need to reschedule our meeting on June 12 - apologies for short notice",
+    "body": "Dear team,\n\nI am very sorry to contact you at short notice, but I am afraid I need to reschedule our meeting that was booked for Thursday June 12 at 2:00 pm.\n\nI have an unexpected conflict that afternoon due to a supplier visit that has been rearranged at short notice. I apologise for any inconvenience this causes.\n\nWould it be possible to move the meeting to any of the following alternative slots?\n- Friday June 13, morning\n- Monday June 16, any time\n- Tuesday June 17, afternoon\n\nPlease let me know what works and I will confirm immediately. I appreciate your understanding.\n\nBest regards,\nJames O'Connor\nHartfield Retail Ltd",
+    "received_at": "2026-06-11 08:30:00"
+  },
+  {
+    "id": "demo-007",
+    "sender": "hr@metroplex-inc.com",
+    "subject": "Payroll query - new employee tax code and possible over-deduction for EMP-0091",
+    "body": "Hi,\n\nWe have two payroll matters that require your assistance:\n\n1. New starter - James Whitfield joins on June 16, 2026. His previous employer has not yet issued a P45. Should we apply the emergency tax code 1257L W1/M1 in the meantime, or would you recommend a different approach to avoid under or over-taxation?\n\n2. Existing employee over-deduction - Employee ref EMP-0091 (Maria Santos) believes she has been over-deducted on National Insurance contributions for the past three months. Her gross salary is £3,800 per month. Could you review her payroll records and advise on whether a correction is needed and how to process the refund?\n\nWe run payroll on the 25th of each month, so we would appreciate a response before June 24th.\n\nThanks,\nHR Team\nMetroplex Inc",
+    "received_at": "2026-06-09 14:10:00"
+  },
+  {
+    "id": "demo-008",
+    "sender": "finance@nordica-retail.com",
+    "subject": "VAT return Q1 2026 - need your assistance preparing the submission",
+    "body": "Hello,\n\nWe need your assistance preparing our VAT return for Q1 2026 (January to March). Our figures for the quarter are as follows:\n\n- Total turnover: £428,000\n- Standard-rated sales: £386,000\n- Zero-rated exports to EU clients: £42,000\n- Input VAT on purchases: £18,200\n- Output VAT on standard-rated sales: £77,200\n\nWe are unsure how to classify the zero-rated EU exports correctly on the return following the changes introduced after Brexit. We are also seeking clarification on whether our new online marketplace commissions qualify for input VAT recovery.\n\nThe VAT period ends June 30 and the filing deadline is July 7. Could you prepare the draft return and advise before we submit?\n\nBest,\nFinance Team\nNordica Retail Ltd",
+    "received_at": "2026-06-09 11:45:00"
+  },
+  {
+    "id": "demo-009",
+    "sender": "operations@greenfield-estate.com",
+    "subject": "Bank statements attached - Q1 2026 for all three accounts",
+    "body": "Hi team,\n\nAs requested at our last meeting, please find attached the bank statements for all three Greenfield Estate Management accounts for Q1 2026 (January to March 2026):\n\n1. Main operating account (sort code: 20-15-xx, account ending: 1234) - 3 monthly statements\n2. Savings and reserve account (account ending: 5678) - 3 monthly statements\n3. Payroll account (account ending: 9012) - 3 monthly statements\n\nAll attachments are in PDF format. There are a few transactions in February that may require clarification - I have highlighted them in yellow on the statements.\n\nPlease confirm receipt and let us know if you need any additional documentation to complete the reconciliation.\n\nKind regards,\nOperations Team\nGreenfield Estate Management",
+    "received_at": "2026-06-08 15:30:00"
+  },
+  {
+    "id": "demo-010",
+    "sender": "peter.walsh@clientco.com",
+    "subject": "Formal complaint - errors in 2024 accounts and unjustified fees",
+    "body": "I am writing to formally raise a complaint about the standard of service received from your firm.\n\nFollowing an internal review of our 2024 annual accounts, we identified the following errors which your team was responsible for preparing:\n\n1. Capital allowances of £12,400 were omitted entirely from the computation, resulting in an overpayment of corporation tax.\n2. Three expense categories were incorrectly classified, affecting both the profit figure and tax liability.\n3. We were invoiced for work that was outside the agreed scope of engagement and was never authorised.\n\nWe are requesting a full review of the 2024 accounts, correction of all errors, a tax refund for the overpayment, and reimbursement of the fees charged for the unauthorised work.\n\nI expect a formal written response within 5 business days. If I do not receive a satisfactory resolution, I will have no choice but to escalate this matter to the Institute of Chartered Accountants.\n\nPeter Walsh\nClient Co Ltd",
+    "received_at": "2026-06-10 09:50:00"
+  },
+  {
+    "id": "demo-011",
+    "sender": "claire.dobson@startupxyz.com",
+    "subject": "R&D tax credit refund of £23,450 - still outstanding after 4 months",
+    "body": "Hi,\n\nWe submitted our R&D tax credit claim for the 2024-25 tax year back in February 2026. It has now been four months and we still have not received the refund of £23,450 from HMRC.\n\nWe were advised at submission that processing typically takes 6-8 weeks. We are now well beyond that timeframe and the delay is causing significant cash flow problems for the business. We have a payroll run on June 25th that we are struggling to cover.\n\nCould you please follow up with HMRC on our behalf as a matter of urgency and provide an estimated timeline for payment? If there is an issue with the claim, we need to know immediately so it can be resolved.\n\nThank you,\nClaire Dobson\nStartup XYZ Ltd",
+    "received_at": "2026-06-09 13:00:00"
+  },
+  {
+    "id": "demo-012",
+    "sender": "tom.bradley@freethought.co",
+    "subject": "General questions about self-assessment tax return - first time filing",
+    "body": "Hello,\n\nI recently started as a sole trader offering IT consulting services, and this will be my first time completing a self-assessment tax return. I am finding the process quite confusing and would appreciate some guidance.\n\nSpecifically, I have questions about:\n1. What records I need to keep throughout the tax year (receipts, invoices, mileage logs, etc.)\n2. Which expenses I can legitimately claim when I work primarily from home\n3. Whether I can claim for equipment I purchased before I registered as self-employed\n4. Key deadlines I should be aware of for 2025-26\n\nI am not sure if I need an accountant at this stage or whether I can manage this myself. Would you be able to advise?\n\nMany thanks,\nTom Bradley",
+    "received_at": "2026-06-08 10:00:00"
+  },
+  {
+    "id": "demo-013",
+    "sender": "emily.hayes@newhorizons-catering.co.uk",
+    "subject": "New client enquiry - would like to engage your accounting services",
+    "body": "Dear team,\n\nI was recommended to your firm by a mutual contact, David Briggs at Briggs & Partners. I am the owner of New Horizons Catering Ltd, a small hospitality business that I started in January 2026.\n\nI currently do not have an accountant and I am looking to engage a professional firm to handle our bookkeeping, payroll, annual accounts, and corporation tax return going forward.\n\nWe have 6 employees and turnover for this year is projected at approximately £280,000. I would also like advice on whether we should register for VAT at this stage.\n\nCould you please send me information about your services and pricing, and advise on the next steps to get started? I am available for an initial consultation at any time.\n\nKind regards,\nEmily Hayes\nDirector, New Horizons Catering Ltd",
+    "received_at": "2026-06-10 14:00:00"
+  },
+  {
+    "id": "demo-014",
+    "sender": "accounts@brightongroup.com",
+    "subject": "Payment confirmation - Invoice #ACC-2026-0032 for £6,200 settled",
+    "body": "Dear team,\n\nI am writing to confirm that payment of £6,200.00 has been made today in respect of Invoice #ACC-2026-0032 for annual accounts and tax preparation services.\n\nPayment details:\n- Date: 10 June 2026\n- Amount: £6,200.00\n- Method: Bank transfer\n- Our reference: BHTN-PAY-0610\n\nPlease find attached a copy of our bank transfer confirmation for your records. Could you please confirm receipt and issue a formal receipt or updated statement of account when convenient?\n\nKind regards,\nAccounts Team\nBrighton Group Ltd",
+    "received_at": "2026-06-10 12:45:00"
+  },
+  {
+    "id": "demo-015",
+    "sender": "david.park@parkandco-consulting.net",
+    "subject": "Concerned about late filing penalty - what are our options?",
+    "body": "Hi,\n\nI am writing with some urgency as I have just realised that our company's corporation tax return for the year ending 31 March 2025 may have been filed late. We submitted it on 6 January 2026, but I have just read that the deadline was 31 December 2025.\n\nIf this is the case, we understand a £100 penalty has already been levied. We are worried about further penalties if HMRC escalates this. Could you please:\n\n1. Confirm whether the filing was indeed late\n2. Advise on the penalty position and whether any mitigation is available\n3. Confirm there are no other outstanding obligations we may have missed\n\nThis is causing me significant concern and I would appreciate an urgent response.\n\nDavid Park\nPark & Co Consulting",
+    "received_at": "2026-06-09 17:00:00"
+  },
+  {
+    "id": "demo-016",
+    "sender": "noreply@hmrc-notifications.gov.uk",
+    "subject": "Notice of HMRC enquiry into your 2023-24 tax return - ref ENQ-2026-44821",
+    "body": "OFFICIAL NOTICE\n\nHMRC Reference: ENQ-2026-44821\nClient: Hartfield Retail Ltd\nUTR: 12345 67890\n\nHMRC has opened a formal enquiry into your corporation tax return for the accounting period ending 31 March 2024 under Section 9A of the Taxes Management Act 1970.\n\nWe require the following information and documents within 30 days of this notice:\n1. Detailed breakdown of the £84,000 claimed as director remuneration\n2. Evidence supporting the £32,500 entertainment expenses\n3. All contracts and invoices relating to the overseas consultancy fees of £47,200\n\nYou have the right to have a tax agent or adviser deal with this enquiry on your behalf. We strongly recommend that you seek professional advice before responding.\n\nIMPORTANT: Failure to respond within 30 days may result in a penalty notice.",
+    "received_at": "2026-06-11 09:00:00"
+  },
+  {
+    "id": "demo-017",
+    "sender": "newsletter@business-deals-online.net",
+    "subject": "EXCLUSIVE OFFER: Cloud accounting software 70% off - this weekend only!!!",
+    "body": "INCREDIBLE DEAL - Don't miss out!!!\n\nGet our premium business accounting and payroll software for just £19 per month (normally £65)! Over 10,000 businesses already use our platform!\n\nOFFER ENDS SUNDAY 13 JUNE - DO NOT DELAY!\n\nKey features:\n- Automatic bank feeds\n- VAT and payroll automation\n- Free invoicing templates\n- HMRC Making Tax Digital compliant\n\nCLICK HERE NOW to claim your 70% discount before this incredible offer expires!\n\nThis is a time-limited promotional offer. To stop receiving these emails, click Unsubscribe.",
+    "received_at": "2026-06-10 06:00:00"
+  },
+  {
+    "id": "demo-018",
+    "sender": "mike.johnson@brightfutures.com",
+    "subject": "Question about capital gains tax on property sale - follow-up",
+    "body": "Hello,\n\nFollowing up on my earlier enquiry about capital gains tax on the sale of my investment property. I am now ready to proceed and would like proper advice before I file.\n\nTo recap: I sold my investment property in March 2026. Purchase price in 2018 was £320,000. Sale price £490,000. I spent £25,000 on qualifying improvements over the years.\n\nI have since discovered I may also qualify for Private Residence Relief for the period I lived there (2018-2020), and I would like to understand how this affects my CGT computation.\n\nCould you please review my situation and advise on:\n1. The net taxable gain after all available reliefs\n2. Whether I should use the 28% or 24% CGT rate\n3. The filing and payment deadline for the CGT report\n\nI understand the payment deadline may be approaching soon, so I would appreciate a response by next Friday.\n\nMany thanks,\nMike Johnson",
+    "received_at": "2026-06-10 10:30:00"
+  },
+  {
+    "id": "demo-019",
+    "sender": "procurement@telfordgroup.plc",
+    "subject": "Query about your service agreement, fees, and scope of engagement",
+    "body": "Dear team,\n\nWe are a medium-sized group of companies (3 entities) currently reviewing our professional services providers and considering switching accounting firms.\n\nBefore we proceed further, we would like to understand:\n\n1. Your fee structure for managing annual accounts and corporation tax for a group of 3 companies with combined turnover of approximately £4.2m\n2. Whether your engagement letter covers all entities in a group under a single agreement or separately\n3. Your process for handling inter-company transactions and consolidation\n4. Typical turnaround times for annual accounts preparation\n5. Whether you offer a dedicated account manager\n\nWe would also appreciate a copy of your standard engagement terms and any client references from similar-sized businesses.\n\nBest regards,\nProcurement Team\nTelford Group PLC",
+    "received_at": "2026-06-09 10:00:00"
+  },
+  {
+    "id": "demo-020",
+    "sender": "mark.sterling@castleford-holdings.com",
+    "subject": "Clarification needed on item in document checklist - depreciation schedule",
+    "body": "Hi,\n\nThank you for sending us the document checklist for our annual accounts preparation. I have gathered most of the items but I have a question about one of them.\n\nThe checklist asks for a 'depreciation schedule for all fixed assets.' We use a simple spreadsheet to track our assets but I am not sure if this is what you need, or whether you require something in a specific format.\n\nWe have:\n- 12 company laptops (purchased 2023-2025)\n- Office furniture (purchased 2022)\n- Company van (purchased 2024, registered to the company)\n- Some IT equipment that was fully written off in 2023\n\nCould you clarify what information you need and in what format? I want to make sure I provide the right documents first time so we do not cause any delays.\n\nThank you,\nMark Sterling\nCastleford Holdings Ltd",
+    "received_at": "2026-06-08 14:00:00"
+  }
+]

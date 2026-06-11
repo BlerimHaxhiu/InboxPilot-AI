@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Claude Code local settings (editor tool — not project code)
+.claude/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables (never commit)
+.env
+
+# Database (SQLite file — regenerate from demo data at runtime)
+data/inboxpilot.db
+*.db
+
+# Test cache
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Playwright browser binaries (large — installed locally via: python -m playwright install)
+# The e2e/ test files ARE committed; only browser binaries are excluded
+playwright/.local-browsers/
+
+# Temporary screenshot artifacts
+docs/screenshots/*.tmp
