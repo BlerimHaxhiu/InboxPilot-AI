@@ -344,4 +344,4 @@ This project demonstrates skills directly relevant to AI Automation Engineer rol
 
 ## License
 
-MIT — free to use, fork, and adapt for your own portfolio.
+MIT 
