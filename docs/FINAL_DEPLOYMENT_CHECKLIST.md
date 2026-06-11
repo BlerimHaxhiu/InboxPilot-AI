@@ -35,7 +35,7 @@ Use this checklist before pushing to GitHub and deploying.
   
   222 unit tests + 18 Playwright smoke tests passing.
   7 screenshots captured. Full documentation."
-  git remote add origin https://github.com/YOUR_USERNAME/InboxPilot-AI.git
+  git remote add origin https://github.com/BlerimHaxhiu/InboxPilot-AI.git
   git push -u origin main
   ```
 

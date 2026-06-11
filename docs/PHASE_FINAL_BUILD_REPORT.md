@@ -118,7 +118,7 @@ git commit -m "Finalize InboxPilot AI portfolio prototype
 Full documentation. Deployment-ready."
 
 # After creating repo at github.com:
-git remote add origin https://github.com/YOUR_USERNAME/InboxPilot-AI.git
+git remote add origin https://github.com/BlerimHaxhiu/InboxPilot-AI.git
 git push -u origin main
 ```
 

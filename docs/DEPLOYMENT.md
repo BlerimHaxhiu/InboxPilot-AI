@@ -12,7 +12,7 @@
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/inboxpilot-ai.git
+git clone https://github.com/BlerimHaxhiu/InboxPilot-AI.git
 cd inboxpilot-ai
 
 python -m venv .venv

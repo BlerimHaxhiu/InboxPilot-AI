@@ -8,7 +8,7 @@
 [![Playwright](https://img.shields.io/badge/playwright-18%20smoke%20tests-orange)](e2e/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**Live demo:** deployment pending — see [Deployment](docs/DEPLOYMENT.md) to run locally or deploy to Streamlit Cloud.
+**GitHub:** [BlerimHaxhiu/InboxPilot-AI](https://github.com/BlerimHaxhiu/InboxPilot-AI) &nbsp;|&nbsp; **Live demo:** deployment pending — see [Deployment](docs/DEPLOYMENT.md) to run locally or deploy to Streamlit Cloud.
 
 ---
 
@@ -149,7 +149,7 @@ The pipeline handles every email end-to-end:
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/inboxpilot-ai.git
+git clone https://github.com/BlerimHaxhiu/InboxPilot-AI.git
 cd inboxpilot-ai
 
 # Create virtual environment
